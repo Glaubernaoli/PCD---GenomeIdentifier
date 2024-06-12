@@ -5,7 +5,7 @@
 ### Projeto Práticas em Ciências de Dados, Turma 2024
 ### Colaboradores: Enzo Januzzi, Gabriel  Viégas e Glauber Nascimento.  
  <h4 align="center"> 
-    🚧  Projeto em construção  🚧
+    ☑️  Projeto em concluído ☑️
 </h4>
 
 ## 💡 Descrição
