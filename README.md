@@ -4,8 +4,9 @@
 
 ### Projeto Práticas em Ciências de Dados, Turma 2024
 ### Colaboradores: Enzo Januzzi, Gabriel  Viégas e Glauber Nascimento.  
+### Práticas em Ciências de Dados -  Prof. Dr. Leandro Lemos
  <h4 align="center"> 
-    ☑️  Projeto em concluído ☑️
+    🏁  Projeto concluído 🏁
 </h4>
 
 ## 💡 Descrição
@@ -39,14 +40,18 @@
 
 ### Depois de baixar o projeto você deve abri-lo no Jupyter Notebook
 
-## ✔️ Linguagens e programas usados
+## 📓 Linguagens e programas usados
 
 #### `Python`, `Jupyter Notebook`, `Plotly`, `Matplotlib`, `Datetime`
 ##
-
+## 📖 Referências
+#### 1.  ALURA. Como escrever um bom README para seu projeto no GitHub. Disponível em: https://www.alura.com.br/artigos/escrever-bom-readme. Acesso em: 11 jun. 2024.
+#### 2.  ROCKETSEAT. Como fazer um bom README. Disponível em: https://blog.rocketseat.com.br/como-fazer-um-bom-readme/. Acesso em: 11 jun. 2024.
+#### 3.  PLOTLY Technologies Inc. Python API reference for Plotly. Disponível em: https://plotly.com/python/. Acesso em: 18 jun. 2024.
+#### 4.  OPENAI. ChatGPT (versão de 18 de junho). Disponível em: https://www.openai.com/chatgpt. Acesso em: 18 jun. 2024. 
 ##  :octocat:  Autores
 
-| [<img loading="lazy" src="https://github.com/Glaubernaoli/PCD---GenomeIdentifier/assets/172425065/7739b48f-cff8-4278-ae19-a38aa4f451df" width=115><br> <sub>Gabriel Viégas </sub>](https://github.com/gabviegas)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/9830206667772540)<br> [<sub>Linkedin</sub>]()|  [<img loading="lazy" src="https://github.com/Glaubernaoli/PCD---GenomeIdentifier/assets/172425065/ecbf1a63-69ba-450a-bb1d-770450b17189" width=115><br><sub>Glauber Nascimento de Oliveira</sub>](https://github.com/Glaubernaoli)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/0913262665776521)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/glauber-naoli/) |  [<img loading="lazy" src="https://github.com/Glaubernaoli/PCD---GenomeIdentifier/assets/172425065/3a46fdd6-2a61-4d80-92ec-efa18f758f50" width=115><br><sub>Enzo Januzzi</sub>](https://github.com/EnzoJanuzzi)<br> [<sub>Currículo Lattes</sub>]()<br> [<sub>Linkedin</sub>]() |
+| [<img loading="lazy" src="https://github.com/Glaubernaoli/PCD---GenomeIdentifier/assets/172425065/7739b48f-cff8-4278-ae19-a38aa4f451df" width=115><br> <sub>Gabriel Viégas </sub>](https://github.com/gabviegas)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/9830206667772540)<br> [<sub>Linkedin</sub>]()|  [<img loading="lazy" src="https://github.com/Glaubernaoli/PCD---GenomeIdentifier/assets/172425065/ecbf1a63-69ba-450a-bb1d-770450b17189" width=115><br><sub>Glauber Nascimento de Oliveira</sub>](https://github.com/Glaubernaoli)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/0913262665776521)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/glauber-naoli/) |  [<img loading="lazy" src="https://github.com/Glaubernaoli/PCD---GenomeIdentifier/assets/172425065/3a46fdd6-2a61-4d80-92ec-efa18f758f50" width=115><br><sub>Enzo Januzzi</sub>](https://github.com/EnzoJanuzzi)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/1031555112242239)<br> [<sub>Linkedin</sub>]() |
 | :---: | :---: | :---: |
  #### `Contribuições` - Todos os autores construíram o código juntos, quando não coletivamente, atuavamos na revisão do código, e os gráficos também.
  ##### `Glauber Nascimento`escreveu esse documento, revisado por `Gabriel Viégas` e `Enzo Januzzi`
